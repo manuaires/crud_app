@@ -1,0 +1,74 @@
+ body {
+            background-color: #31323e;
+            color: #ffffff;
+        }
+        .navbar {
+            background-color: #60519b;
+            color: #ffffff;
+        }
+        nav .navbar-brand {
+            font-size: 33px;
+            font-weight: bold;
+            color: #ffffff;
+        }
+        nav .navbar-brand:hover {
+            color: #ffffff;
+        }
+        nav .nav-link {
+            background-color: #8c7ae6;
+            border-radius: 20px 20px 20px 20px;
+            padding: 8px;
+            margin: 5px;
+            color: #fff ;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        }
+        nav .nav-link:hover {
+            background-color: #7463ba;
+            color: #ffffff;
+        }
+        nav .nav-link.active {
+            color: #ffffff;
+        }
+        .dropdown-menu {
+            background-color: #60519b;
+        }
+        .dropdown-item {
+            color: #ffffff;
+            justify-content: center;
+        }
+        .dropdown-item:hover {
+            background-color: #7463ba;
+            color: #ffffff; 
+        }
+        .card {
+            margin-top: 50px;
+            background-color: #444555;
+            color: #ffffff;
+            border-color: #24262e;
+        }
+        input, .form-control {
+            background-color: #686c80;
+            color: #ffffff;
+            border-color: #24262e;
+        }
+        .btn-success, .btn-warning {
+            background-color: #60519b;
+            color: #ffffff;
+            border-color: #514483;
+        }
+        .btn-success:hover, .btn-warning:hover {
+            background-color: #7463ba;
+            color: #ffffff;
+            border-color: #514483;
+        }
+        .btn-primary {
+            background-color: #8170d4;
+            color: #ffffff;
+            border-color: #7463ba;
+        }   
+        .btn-primary:hover {
+            background-color: #7463ba;
+            color: #ffffff;
+            border-color: #514483;
+        }
+       
